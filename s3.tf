@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "backup" {
-  bucket = "jayanti-bucket-demo-987654321-animesh-2026"
+  bucket = "jayantipeshkar-bucket-20261998"
 }
